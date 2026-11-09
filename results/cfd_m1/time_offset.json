@@ -1,0 +1,100 @@
+{
+  "chosen_offset_hours": 0,
+  "votes": [
+    0,
+    0,
+    0
+  ],
+  "probes": {
+    "EURUSD": {
+      "chosen_offset_hours": 0,
+      "reason": "min_mae_then_abs_median",
+      "candidates": [
+        {
+          "offset_h": 0,
+          "n": 2224,
+          "median_gap_bps": 4.273540592485846,
+          "mean_gap_bps": 4.275039549842319,
+          "std_gap_bps": 1.3815898092364682,
+          "mae_gap_bps": 4.275039549842319
+        },
+        {
+          "offset_h": 2,
+          "n": 2152,
+          "median_gap_bps": 7.663566378860901,
+          "mean_gap_bps": 7.144522317962059,
+          "std_gap_bps": 6.771051737282126,
+          "mae_gap_bps": 8.573327976573475
+        },
+        {
+          "offset_h": 3,
+          "n": 2152,
+          "median_gap_bps": 8.553671727106241,
+          "mean_gap_bps": 8.095485171588471,
+          "std_gap_bps": 8.20892576493133,
+          "mae_gap_bps": 9.913331651622697
+        }
+      ]
+    },
+    "XAUUSD": {
+      "chosen_offset_hours": 0,
+      "reason": "min_mae_then_abs_median",
+      "candidates": [
+        {
+          "offset_h": 0,
+          "n": 2039,
+          "median_gap_bps": 5.71986598459838,
+          "mean_gap_bps": 5.7689278019893155,
+          "std_gap_bps": 2.10431114713233,
+          "mae_gap_bps": 5.773440876917495
+        },
+        {
+          "offset_h": 2,
+          "n": 2039,
+          "median_gap_bps": 7.691996275454661,
+          "mean_gap_bps": 6.612335803220774,
+          "std_gap_bps": 23.311019332084985,
+          "mae_gap_bps": 19.079544031948835
+        },
+        {
+          "offset_h": 3,
+          "n": 2039,
+          "median_gap_bps": 8.772296252977268,
+          "mean_gap_bps": 5.919574398086118,
+          "std_gap_bps": 26.72401289964172,
+          "mae_gap_bps": 21.55400282639432
+        }
+      ]
+    },
+    "US500.cash": {
+      "chosen_offset_hours": 0,
+      "reason": "min_mae_then_abs_median",
+      "candidates": [
+        {
+          "offset_h": 0,
+          "n": 2164,
+          "median_gap_bps": -3.401182574327821,
+          "mean_gap_bps": -3.3097612014439814,
+          "std_gap_bps": 1.075439513200765,
+          "mae_gap_bps": 3.3103662095078836
+        },
+        {
+          "offset_h": 2,
+          "n": 2097,
+          "median_gap_bps": -4.616895235494407,
+          "mean_gap_bps": -5.696386131914495,
+          "std_gap_bps": 17.889411005789317,
+          "mae_gap_bps": 14.067649476176904
+        },
+        {
+          "offset_h": 3,
+          "n": 2097,
+          "median_gap_bps": -4.22132277697755,
+          "mean_gap_bps": -6.547835823321141,
+          "std_gap_bps": 19.877983487161014,
+          "mae_gap_bps": 15.285046330926262
+        }
+      ]
+    }
+  }
+}

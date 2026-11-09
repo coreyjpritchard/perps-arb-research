@@ -1,0 +1,27 @@
+# Raw and derived data are never committed
+data/
+*.parquet
+*.pkl
+*.feather
+*.h5
+results/**/cache/
+# Secrets / environment
+.env
+.env*
+*.key
+*.pem
+# Logs
+*.log
+logs/
+# Python / tooling
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+# LaTeX intermediates
+*.aux
+*.out
+*.toc
+*.bbl
+*.blg

@@ -1,0 +1,20 @@
+Max adverse move from entry, per trade, using 8h-grid CLOSES (understates intrabar wicks)
+b worst HL short-leg run-ups:
+coin                     entry  max_runup
+AVAX 2025-07-15 08:00:00+00:00   0.699272
+AVAX 2024-11-10 08:00:00+00:00   0.767204
+LINK 2024-11-01 00:00:00+00:00   1.657740
+DOGE 2024-11-01 00:00:00+00:00   1.888868
+ XRP 2024-11-01 00:00:00+00:00   5.499382
+BTC   always-on from 2024-11-01: HL max run-up +78%, Binance perp max drawdown -17%
+ETH   always-on from 2024-11-01: HL max run-up +92%, Binance perp max drawdown -42%
+SOL   always-on from 2024-11-01: HL max run-up +61%, Binance perp max drawdown -63%
+XRP   always-on from 2024-11-01: HL max run-up +608%, Binance perp max drawdown -3%
+DOGE  always-on from 2024-11-01: HL max run-up +189%, Binance perp max drawdown -57%
+SUI   always-on from 2024-11-01: HL max run-up +168%, Binance perp max drawdown -67%
+LINK  always-on from 2024-11-01: HL max run-up +166%, Binance perp max drawdown -37%
+AVAX  always-on from 2024-11-01: HL max run-up +123%, Binance perp max drawdown -76%
+(a) open trades spanning 10 Oct 2025:
+coin short long                     entry                      exit       net
+AVAX    HL  BIN 2025-10-06 00:00:00+00:00 2025-10-11 00:00:00+00:00 -0.001134
+AVAX    HL  BYB 2025-09-12 08:00:00+00:00 2025-10-18 00:00:00+00:00  0.010782

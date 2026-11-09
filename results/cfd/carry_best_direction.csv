@@ -1,0 +1,8 @@
+hl,mt5,direction,fee_sched,period,funding_usd,swap_usd,basis_usd,fees_usd,net_usd,capital,ann_on_capital,days,mean_funding_ann,n_funding,swaps_source
+xyz:GBP,GBPUSD,long_hl_short_mt5,docs,IS,,,0.0,-2.396107418556824,87.43956686372985,300.0,1.0229308302968396,104,-0.03651389564402809,3416,swaps_snapshot_2026-10-27.csv (constant assumed)
+xyz:SP500,US500.cash,long_hl_short_mt5,docs,IS,,,0.0,-2.599105002397315,84.15026678067233,300.0,0.6825521638876755,150,-0.009286575049592242,4537,swaps_snapshot_2026-10-27.csv (constant assumed)
+xyz:GOLD,XAUUSD,short_hl_long_mt5,docs,IS,,,0.0,-19.04242676951944,74.29050744349647,500.0,0.3591527843294863,151,0.07249241174884337,4539,swaps_snapshot_2026-10-27.csv (constant assumed)
+xyz:JP225,JP225.cash,short_hl_long_mt5,docs,IS,,,0.0,-3.3244484564540158,27.765928475757782,600.0,0.1181184602989696,143,0.031118231648271127,4367,swaps_snapshot_2026-10-27.csv (constant assumed)
+xyz:JPY,USDJPY,long_hl_short_mt5,docs,IS,,,0.0,-2.4946270380903948,-6.71910454483635,300.0,-0.054138480328151606,151,-0.04458452448645077,4539,swaps_snapshot_2026-10-27.csv (constant assumed)
+xyz:EUR,EURUSD,short_hl_long_mt5,docs,IS,,,0.0,-2.2408845180808035,-42.96512138341781,300.0,-0.34849487344327773,150,0.028253282078448662,4538,swaps_snapshot_2026-10-27.csv (constant assumed)
+xyz:XYZ100,US100.cash,long_hl_short_mt5,docs,IS,,,0.0,-2.2981692365684143,-129.62254604573795,433.3333333333333,-0.7230600505353187,151,0.03311043852478519,4539,swaps_snapshot_2026-10-27.csv (constant assumed)

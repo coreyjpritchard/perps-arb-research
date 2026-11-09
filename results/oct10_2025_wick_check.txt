@@ -1,0 +1,19 @@
+10-11 Oct 2025 (12:00 UTC to 12:00 UTC next day): worst intraday move vs 12:00 UTC open
+BTC   Binance perp 1m low  -16.4% | HL 4h low  -17.0%  HL 4h high   0.8%
+ETH   Binance perp 1m low  -21.7% | HL 4h low  -25.4%  HL 4h high   1.1%
+SOL   Binance perp 1m low  -36.1% | HL 4h low  -37.8%  HL 4h high   1.5%
+XRP   Binance perp 1m low  -58.1% | HL 4h low  -58.3%  HL 4h high   0.6%
+DOGE  Binance perp 1m low  -66.6% | HL 4h low  -66.1%  HL 4h high   1.3%
+SUI   Binance perp 1m low  -83.6% | HL 4h low  -83.2%  HL 4h high   0.3%
+LINK  Binance perp 1m low  -63.6% | HL 4h low  -66.0%  HL 4h high   1.7%
+AVAX  Binance perp 1m low  -70.1% | HL 4h low  -73.0%  HL 4h high   0.8%
+
+Mark-price (used for liquidation) lows, same window, vs 12:00 UTC open:
+BTC   Binance mark 1m low  -16.2% (24h later  -7.6%) | Bybit mark 1m low  -12.2%
+ETH   Binance mark 1m low  -21.1% (24h later -11.6%) | Bybit mark 1m low  -15.8%
+SOL   Binance mark 1m low  -34.9% (24h later -17.0%) | Bybit mark 1m low  -26.2%
+XRP   Binance mark 1m low  -57.7% (24h later -12.1%) | Bybit mark 1m low  -55.2%
+DOGE  Binance mark 1m low  -64.6% (24h later -22.7%) | Bybit mark 1m low  -61.5%
+SUI   Binance mark 1m low  -83.3% (24h later -21.7%) | Bybit mark 1m low  -82.5%
+LINK  Binance mark 1m low  -63.8% (24h later -19.5%) | Bybit mark 1m low  -62.8%
+AVAX  Binance mark 1m low  -69.9% (24h later -19.8%) | Bybit mark 1m low  -68.6%

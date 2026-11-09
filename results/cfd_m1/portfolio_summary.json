@@ -1,0 +1,10 @@
+{
+  "split_mode": "descriptive_illustrative_60_40",
+  "calendar_days": 3.546,
+  "gap_trades": 15,
+  "gap_net_usd": 4.205665608340778,
+  "gap_gross_usd": 31.579704328829123,
+  "gap_is_net_usd": -5.581949730743023,
+  "gap_oos_net_usd": 9.787615339083802,
+  "open_trades": 0
+}

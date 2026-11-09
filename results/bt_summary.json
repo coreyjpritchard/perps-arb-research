@@ -1,0 +1,16 @@
+{
+ "gaps": [
+  "BTC HL: 1 8h buckets without exactly 8 hourly prints",
+  "ETH HL: 1 8h buckets without exactly 8 hourly prints",
+  "SOL HL: 1 8h buckets without exactly 8 hourly prints",
+  "XRP HL: 1 8h buckets without exactly 8 hourly prints",
+  "DOGE HL: 1 8h buckets without exactly 8 hourly prints",
+  "SUI HL: 1 8h buckets without exactly 8 hourly prints",
+  "LINK HL: 1 8h buckets without exactly 8 hourly prints",
+  "AVAX HL: 1 8h buckets without exactly 8 hourly prints"
+ ],
+ "theta": {
+  "a": 0.15,
+  "b": 0.1
+ }
+}

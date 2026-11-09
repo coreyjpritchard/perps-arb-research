@@ -1,0 +1,9 @@
+{
+  "written_before_pnl": true,
+  "global_start": "2026-04-01 21:00:00+00:00",
+  "global_end": "2026-10-07 23:59:59+00:00",
+  "calendar_days": 189,
+  "mode": "time_80_20",
+  "oos_start": "2026-08-30 21:00:00+00:00",
+  "note": "Per-pair samples start at each pair's overlap_start; portfolio metrics use available pairs each day."
+}
